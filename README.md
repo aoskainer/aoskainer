@@ -4,9 +4,9 @@ I'm a Japanese backend developer.
 
 ## Stats
 
-![aoskainer's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoskainer&show_icons=true)
+![aoskainer's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoskainer&show_icons=true&hide=stars,contribs)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aoskainer&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aoskainer&layout=compact&hide=c%2B%2B,cmake,ruby,swift)
 
 ## Work Experience
 
