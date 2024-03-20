@@ -1,16 +1,24 @@
-### Hi there 👋
+## Introduction
 
-<!--
-**aoskainer/aoskainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Japanese backend developer.
 
-Here are some ideas to get you started:
+## Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![aoskainer's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoskainer&show_icons=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aoskainer&layout=compact)
+
+## Work Experience
+
+### Languages
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,php,js,ts)
+
+### Frameworks
+![My Skills](https://skillicons.dev/icons?i=spring,django,laravel,express)
+
+### Others
+![My Skills](https://skillicons.dev/icons?i=aws,terraform,nginx,docker,mysql,postgresql,redis,github,gitlab)
+
+## Studying
+
+![Studying](https://skillicons.dev/icons?i=dart,flutter,go)
